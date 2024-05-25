@@ -1,0 +1,15 @@
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.csproj.AssemblyReference.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.AssemblyInfoInputs.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.AssemblyInfo.cs
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.csproj.CoreCompileInputs.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/bin/Debug/net7.0/csharp_exercice_03
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/bin/Debug/net7.0/csharp_exercice_03.deps.json
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/bin/Debug/net7.0/csharp_exercice_03.runtimeconfig.json
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/bin/Debug/net7.0/csharp_exercice_03.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/bin/Debug/net7.0/csharp_exercice_03.pdb
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/refint/csharp_exercice_03.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.pdb
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/csharp_exercice_03.genruntimeconfig.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/csharp_exercice_03/obj/Debug/net7.0/ref/csharp_exercice_03.dll
