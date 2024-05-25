@@ -4,10 +4,13 @@ const int NbMystere = 7;
 
 bool win = false;
 List<int> nombreJoues = new List<int>();
+string indication = "";
 
 while (win == false)
 {
     Console.Clear();
+    Console.WriteLine(indication);
+    Console.WriteLine();
     if (nombreJoues.Count > 0)
     {
         Console.Write("Vous avez déja joué les nombres : ");
@@ -15,8 +18,12 @@ while (win == false)
     foreach (int nbJoue in nombreJoues)
     {
         Console.Write($" {nbJoue} ");
-        Console.Write("|");
+        if (nombreJoues.Count > 1)
+        {
+            Console.Write("|");
+        }
     }
+    Console.WriteLine();
     Console.WriteLine();
 
     Console.WriteLine("Saisir un nombre entre 1 et 10");
@@ -34,11 +41,11 @@ while (win == false)
     {
         if (nombre < NbMystere)
         {
-            Console.WriteLine("Le nombre mystère est plus grand...");
+            indication = "Le nombre mystère est plus grand...";
         }
         else
         {
-            Console.WriteLine("Le nombre mystère est plus petit...");
+            indication = "Le nombre mystère est plus petit...";
         }
     }
 }
