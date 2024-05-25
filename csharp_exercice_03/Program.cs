@@ -1,4 +1,6 @@
-﻿const int NbMystere = 7;
+﻿// WHILE LOOP
+
+const int NbMystere = 7;
 
 bool win = false;
 
