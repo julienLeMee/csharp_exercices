@@ -9,8 +9,12 @@ string indication = "";
 while (win == false)
 {
     Console.Clear();
-    Console.WriteLine(indication);
-    Console.WriteLine();
+    if (indication != "")
+    {
+        Console.WriteLine(indication);
+        Console.WriteLine();
+
+    }
     if (nombreJoues.Count > 0)
     {
         Console.Write("Vous avez déja joué les nombres : ");
@@ -26,7 +30,7 @@ while (win == false)
     Console.WriteLine();
     Console.WriteLine();
 
-    Console.WriteLine("Saisir un nombre entre 1 et 10");
+    Console.WriteLine("## Saisir un nombre entre 1 et 10 ##");
     int nombre = int.Parse(Console.ReadLine());
     nombreJoues.Add(nombre);
 
