@@ -41,7 +41,9 @@ else if (operateur == "%")
 }
 else
 {
-    Console.WriteLine("Opérateur non reconnu");
+    Console.WriteLine("---------------------------");
+    Console.WriteLine("-- Opérateur non reconnu --");
+    Console.WriteLine("---------------------------");
     return;
 }
 
