@@ -1,0 +1,15 @@
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.csproj.AssemblyReference.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.AssemblyInfoInputs.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.AssemblyInfo.cs
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.csproj.CoreCompileInputs.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/bin/Debug/net7.0/TPCalculatrice_get_set
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/bin/Debug/net7.0/TPCalculatrice_get_set.deps.json
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/bin/Debug/net7.0/TPCalculatrice_get_set.runtimeconfig.json
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/bin/Debug/net7.0/TPCalculatrice_get_set.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/bin/Debug/net7.0/TPCalculatrice_get_set.pdb
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/refint/TPCalculatrice_get_set.dll
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.pdb
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/TPCalculatrice_get_set.genruntimeconfig.cache
+/Users/julienlemee/code/julienLeMee/csharp_exercices/TPCalculatrice_get_set/obj/Debug/net7.0/ref/TPCalculatrice_get_set.dll
